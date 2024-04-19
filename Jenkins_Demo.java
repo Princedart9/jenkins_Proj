@@ -2,5 +2,6 @@
 
     public static void main(String[] args) {
         System.out.println("Hello Jenkins are you working?: YES");
+        System.out.println("Working fine!!");
     }
  }
