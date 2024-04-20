@@ -4,5 +4,6 @@
         System.out.println("Hello Jenkins are you working?: YES");
         System.out.println("Working fine!!");
         System.out.println("Process Automation!!");
+		System.out.println("Sending from CMD!!");
     }
  }
